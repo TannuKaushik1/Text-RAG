@@ -3,7 +3,7 @@ from sentence_transformers import SentenceTransformer
 from chromadb import PersistentClient
 
 # ✅ Step 1: Configure Gemini API key
-genai.configure(api_key="AIzaSyBsgCEYb-9J1gbvumPKhd2Az0UVkDWe4Bw")  # ⬅️ Replace with your Gemini API key
+genai.configure(api_key="gdufhfiodrfherhr")  # ⬅️ Replace with your Gemini API key
 
 # ✅ Step 2: Input your custom text manually
 input_text = """
